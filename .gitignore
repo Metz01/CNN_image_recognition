@@ -1,0 +1,7 @@
+*.jpeg
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pth
+*.whl
